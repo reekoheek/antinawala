@@ -1,0 +1,12 @@
+{
+  "name": "antinawala",
+  "version": "0.0.1",
+  "description": "Anti Nawala (for educational purposes only)",
+  "author": "Jafar Shadiq <reekoheek@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "native-dns": "~0.4.1",
+    "node-request": "0.0.3",
+    "request": "~2.27.0"
+  }
+}
